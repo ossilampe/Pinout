@@ -1,2 +1,3 @@
 # Pinout
-Manual, Pinout
+-Arduino
+-ESP
