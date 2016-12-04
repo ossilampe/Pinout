@@ -1,6 +1,8 @@
 ESP 
 ====================
 
+![Arduino ESP - 01](https://github.com/ossilampe/Pinout/blob/master/Esp/esp8266-pinout_01.png)
+
 ![Arduino ESP - 01](https://github.com/ossilampe/Pinout/blob/master/Esp/ESP%20-%2001.png)  
 
 ![Arduino ESP - 12](https://github.com/ossilampe/Pinout/blob/master/Esp/ESP%20-%2012.png)  
