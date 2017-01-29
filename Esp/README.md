@@ -7,6 +7,8 @@ ESP
 
 ![Arduino ESP - 12](https://github.com/ossilampe/Pinout/blob/master/Esp/ESP%20-%2012.png)  
 
+![Arduino ESP - mini](https://github.com/ossilampe/Pinout/blob/master/Esp/esp8266_mini.jpg)
+
 ![Arduino ESP - 12E](https://github.com/ossilampe/Pinout/blob/master/Esp/ESP%20-%2012E.png)  
 
 ![Arduino ESP - 201](https://github.com/ossilampe/Pinout/blob/master/Esp/ESP%20-%20201.png)  
